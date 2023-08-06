@@ -1,0 +1,399 @@
+.img{
+       background-image: url("https://previews.123rf.com/images/peshkov/peshkov1905/peshkov190500374/128578729-abstract-glowing-circuit-coding-background-programming-and-technology-concept-3d-rendering.jpg");
+       background-size: cover;
+       background-repeat: no-repeat;
+       background-position: center;
+       width: 100px;
+       height: 100px;
+       border-radius: 100%;
+      outline: 10px solid black;
+      margin-left: 85px;
+      margin-bottom: 20px;
+}
+body{
+       margin: 0;
+       padding: 0;
+}
+.header{
+       position: fixed;
+       top: 0;
+       left: 0;
+       bottom: 0;
+       width: 300px;
+}
+.img2{
+       background-image: url("https://previews.123rf.com/images/peshkov/peshkov1905/peshkov190500374/128578729-abstract-glowing-circuit-coding-background-programming-and-technology-concept-3d-rendering.jpg");
+       background-size: cover;
+       background-repeat: no-repeat;
+       background-position: top center;
+     
+      width:1510px ;
+      height:720px;
+
+}
+.img2 h1{
+     /* z-index: 1; */
+   position: absolute;
+   left: 30%;
+   top:50%;
+
+}
+.img2 p{
+       left: 31%;
+       top:55%;
+       position: absolute;
+       font-size: 25px;
+
+}
+.about{
+       width:1210px ;
+      height:720px;
+     overflow: hidden;
+     margin-left: 300px;
+     padding-left: 20px;
+     
+   
+   
+}
+.div{
+       float: left;
+       width: 380px;
+       height: 380px;
+       margin-top: 10px;
+       
+}
+ .abouth2::after{
+              content: "";
+              display: block;
+              width: 50px;
+              height: 3px;
+              background: #149ddd;
+              margin-top: 10px;
+}
+
+.about img{
+        width: 380px;
+        height: 415px;
+}
+.about ul{
+       float: left;
+       list-style-type: none;
+       margin-right: 70px;
+       margin-left: 50px;
+}
+.about1{
+        
+        width: 780px;
+        padding-left: 10px;
+        float: left;
+        margin-top: 10px;
+        
+}
+.fact{
+       width:1210px ;
+      height:430px;
+     overflow: hidden;
+     margin-left: 300px;
+     padding-left: 20px;
+     
+   
+   
+}
+.skills{
+       width:1210px ;
+      height:430px;
+     overflow: hidden;
+     margin-left: 300px;
+     padding-left: 20px;
+     padding-top: 50px;
+     background-color:  #f5f8fd;;
+     
+   
+   
+}
+.resume{
+       width:1210px ;
+       height:1200px;
+      overflow: hidden;
+      margin-left: 300px;
+      padding-left: 20px;
+}
+.date{
+       font-size: 16px;
+    background: #e4edf9;
+    padding: 5px 15px;
+    display: inline-block;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.border-line{
+       padding: 0 0 20px 20px;
+       margin-top: -2px;
+       border-left: 2px solid #1f5297;
+       position: relative;
+       height: 200px;
+       width: 580px;
+   
+}
+.border-line::before{
+       content: "";
+       position: absolute;
+       width: 16px;
+       height: 16px;
+       border-radius: 50px;
+       left: -9px;
+       top: 0;
+       background: #fff;
+       border: 2px solid #1f5297;
+   
+}
+.border-line1{
+       padding: 0 0 20px 20px;
+       margin-top: -2px;
+       border-left: 2px solid #1f5297;
+       position: relative;
+       height: 380px;
+       width: 580px;
+   
+}
+.border-line1::before{
+       content: "";
+       position: absolute;
+       width: 16px;
+       height: 16px;
+       border-radius: 50px;
+       left: -9px;
+       top: 0;
+       background: #fff;
+       border: 2px solid #1f5297;
+   
+}
+.border-line2{
+       padding: 0 0 20px 20px;
+       margin-top: -2px;
+       border-left: 2px solid #1f5297;
+       position: relative;
+       height: 230px;
+       width: 580px;
+   
+}
+.border-line2::before{
+       content: "";
+       position: absolute;
+       width: 16px;
+       height: 16px;
+       border-radius: 50px;
+       left: -9px;
+       top: 0;
+       background: #fff;
+       border: 2px solid #1f5297;
+   
+}
+
+.border-line3{
+       padding: 0 0 20px 20px;
+       margin-top: -2px;
+       border-left: 2px solid #1f5297;
+       position: relative;
+       height: 220px;
+       width: 580px;
+   
+}
+.border-line3::before{
+       content: "";
+       position: absolute;
+       width: 16px;
+       height: 16px;
+       border-radius: 50px;
+       left: -9px;
+       top: 0;
+       background: #fff;
+       border: 2px solid #1f5297;
+   
+}
+.port{
+       width:1210px ;
+      height:1230px;
+     overflow: hidden;
+     margin-left: 300px;
+     padding-left: 20px;
+     padding-top: 50px;
+     background-color:  #f5f8fd;;
+     
+   
+}
+.portul{
+       background-color: #cfd4dd;
+       width: 300px;
+       margin-left: 400px;
+      border: 1px solid #f5f8fd;
+      border-radius: 30px;
+      margin-bottom: 15px;
+
+}
+.portul li{
+       margin-left: 20px;
+}
+.filter-active {
+       color: rgb(20, 157, 221);
+   }
+ .app:hover,.card:hover,.web:hover{
+       color: rgb(20, 157, 221);
+   } 
+.cup{
+       background-image: url("https://bootstrapmade.com/demo/templates/iPortfolio/assets/img/portfolio/portfolio-1.jpg");
+       background-repeat: no-repeat;
+       background-size: cover;
+      max-width: 390px;
+       height: 300px;
+   }
+.perfume{
+       background-image: url("       https://bootstrapmade.com/demo/templates/iPortfolio/assets/img/portfolio/portfolio-2.jpg");
+       background-repeat: no-repeat;
+       background-size: cover;
+       width: 390px;
+       margin-left: 15px;
+       height: 300px;
+
+}
+.third{
+       background-image: url("   https://bootstrapmade.com/demo/templates/iPortfolio/assets/img/portfolio/portfolio-3.jpg");
+       background-repeat: no-repeat;
+       background-size: cover;
+       width: 390px;
+       margin-left: 15px;
+       height: 300px;
+
+}
+.four{
+       background-image: url(" https://bootstrapmade.com/demo/templates/iPortfolio/assets/img/portfolio/portfolio-4.jpg");
+       background-repeat: no-repeat;
+       background-size: cover;
+       width: 390px;
+       height: 300px;
+
+}.five{
+       background-image: url(" https://bootstrapmade.com/demo/templates/iPortfolio/assets/img/portfolio/portfolio-5.jpg");
+       background-repeat: no-repeat;
+       background-size: cover;
+       width: 390px;
+       margin-left: 15px;
+       height: 300px;
+
+}.six{
+       background-image: url(" https://bootstrapmade.com/demo/templates/iPortfolio/assets/img/portfolio/portfolio-6.jpg");
+       background-repeat: no-repeat;
+       background-size: cover;
+       width: 390px;
+       margin-left: 15px;
+       height: 300px;
+
+}.seven{
+       background-image: url("https://bootstrapmade.com/demo/templates/iPortfolio/assets/img/portfolio/portfolio-7.jpg");
+       background-repeat: no-repeat;
+       background-size: cover;
+       width: 390px;
+       height: 300px;
+
+}.eight{
+       background-image: url("https://bootstrapmade.com/demo/templates/iPortfolio/assets/img/portfolio/portfolio-8.jpg");
+       background-repeat: no-repeat;
+       background-size: cover;
+       width: 390px;
+       margin-left: 15px;
+       height: 300px;
+
+}.nine{
+       background-image: url("https://bootstrapmade.com/demo/templates/iPortfolio/assets/img/portfolio/portfolio-9.jpg");
+       background-repeat: no-repeat;
+       background-size: cover;
+       width: 390px;
+       margin-left: 15px;
+       height: 300px;
+
+}
+
+
+.but .plus, .but .chain{
+       
+              color: white;
+              border:1px solid rgba(20, 157, 221, 0.95);
+              width: 185px;
+              margin-left: 0;
+              margin-top: 66%;
+              margin-right: 0;
+              background-color:rgba(20, 157, 221, 0.95);
+              visibility: hidden;
+               transition: visibility 0s, transform 0.3s;
+               transform: translateY(100%);
+              
+       }
+ .but:hover .plus, .but:hover .chain{
+         visibility: visible;
+          transform: translateY(0);
+          background-color:rgba(20, 157, 221, 0.75);
+          border:1px solid rgba(20, 157, 221, 0.75);
+          color: white;
+         
+
+ }
+ .service{
+       width:1210px ;
+      height:620px;
+     overflow: hidden;
+     margin-left: 300px;
+     padding-left: 20px;
+     padding-top: 50px;
+     
+     
+   
+   
+}
+.navigation{
+       background-color: #093573;
+       opacity: 0.95;
+}
+.servdiv{
+       border-radius: 50%;padding: 15px; margin-top: 5px;
+       background-color: #149ddd;
+       color: white;
+}
+.serh4 h4:hover {
+      color: #149ddd;
+}
+.servdiv:hover ,.servdiv i:hover i{
+       background-color: white;
+       color: #149ddd;
+       border:1px solid #149ddd;
+      
+}
+.Testimonials{
+       width:1210px ;
+      height:700px;
+     overflow: hidden;
+     margin-left: 300px;
+     padding-left: 20px;
+     padding-top: 50px;
+     background-color: #fff;
+     
+   
+   
+}
+.contact{
+       width:1210px ;
+       height:1000px;
+      overflow: hidden;
+      margin-left: 300px;
+      padding-left: 20px;
+      padding-top: 50px;
+      
+}
+
+
+
+
+
+
+
+
+
